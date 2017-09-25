@@ -1,2 +1,2 @@
 DEPS=direnv/direnv
-echo fooooooo
+echo $PWD
